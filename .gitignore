@@ -5,10 +5,8 @@
 *.iml
 
 ## Directory-based project format:
-.idea/
+.idea/*
 # if you remove the above rule, at least ignore the following:
-.idea/vcs.xml
-.idea/workspace.xml
 
 # User-specific stuff:
 #.idea/workspace.xml
